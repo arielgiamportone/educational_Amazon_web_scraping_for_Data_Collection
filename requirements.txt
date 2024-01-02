@@ -1,0 +1,9 @@
+pip
+dash
+dash_bootstrap_components
+dash.dependencies
+pandas
+requests
+bs4
+BeautifulSoup
+urllib.parse
